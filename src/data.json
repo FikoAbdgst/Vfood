@@ -1,0 +1,202 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "img": "../public/Ramen/978f7439c14b08576dcff83041f381a9.jpg",
+      "jenis": "Ramen",
+      "nama": "Shio",
+      "desc": "kaldu sup yang terbuat dari tulang ayam dan tulang babi yang dibumbui dengan saus garam.kuahnya paling bening jika dibandingkan ramen jenis lain. ",
+      "price": 25000,
+      "stock": 99
+    },
+    {
+      "id": 2,
+      "img": "../public/Ramen/61813ad25a9823d8ce9c8bf12384da6f.jpg",
+      "jenis": "Ramen",
+      "nama": "Shoyu",
+      "desc": "Memiliki tampilan dalam kuah sup yang terdiri dari beberapa komposisi seperti kaldu ayam dengan bumbui dengan kecap Saus ini tidak sama dengan kecap biasa, melainkan saus racikan khusus dengan bahan tambahan yang muncul dari gagasan resep rahasia.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 3,
+      "img": "../public/Ramen/56321fd83c6abb91ab154715032edadc.png",
+      "jenis": "Ramen",
+      "nama": "Miso",
+      "desc": "Kaldu yang menggabungkan miso dalam jumlah yang pas, lengkap dengan tambahan topping ayam, ikan, dan kaldu tonkotsu. Kaldu inilah yang membuat rasa kuahnya kaya, kental, pedas dengan sedikit rasa manis.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "img": "../public/Ramen/2eb2596a1fb8e59a142fdf8708832897.jpg",
+      "jenis": "Ramen",
+      "nama": "Tonkotsu",
+      "desc": "Ramen kental, teksturnya lembut, dan kompleks. Bahan utamanya terbuat dari tulang babi yang direbus. Memiliki warna putih susu dengan rasa yang sangat kaya. Jenis ramen ini sering tersaji dengan mi tipis, keras, dan topping minimalis. ",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 5,
+      "img": "../public/Ramen/0942f5dc62ad5434e67f14f5aa950556.jpg",
+      "jenis": "Ramen",
+      "nama": "Tsukemen",
+      "desc": " Mie dibilas dan ditumpuk ke dalam saringan atau mangkuk di samping semangkuk sup kental,Makan hidangan ini cukup unik karena mie dan kuah tersaji dalam mangkuk terpisah, mi kemudian dicelupkan ke dalam kuah sebelum disantap",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 6,
+      "img": "../public/Ramen/9d016db5ef37fa326d8e24be7bafe6f5.jpg",
+      "jenis": "Ramen",
+      "nama": "Champon",
+      "desc": "Mie spesial yang dimasak bersamaan dengan kuahnya. Ramen ini biasanya tersedia lengkap dengan campuran tumisan daging babi, seafood, dan kubis.Champon adalah satu-satunya ramen dari Kyushu yang tidak menggunakan sup tonkotsu",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 7,
+      "img": "../public/Ramen/866417d270a49b777aa5da91cc95266a.jpg",
+      "jenis": "Ramen",
+      "nama": "Kurume",
+      "desc": "Dalam satu hidangan kurume ramen, kamu dapat merasakan nikmatnya sup tonkotsu putih keruh dan mie lurus yang tipis.Rasa kuahnya rasa babi (dari tambahan kepala babi, trotter, dan lain-lain) ke dalam kaldu. Mie dari varietas ini tersedia lengkap.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 8,
+      "img": "../public/Ramen/ff38009b3a6a49b9d6f881b501777e4d.jpg",
+      "jenis": "Ramen",
+      "nama": "Tokyo",
+      "desc": "Merupakan ramen khas dari kota Tokyo, Jepang. Ramen Tokyo adalah ramen dengan rasa shoyu (kecap) yang khas.kaldu ayam dan shoyu dicampur dengan dashi untuk menghasilkan Ramen ala Tokyo yang unik. Disajikan dengan chashu (lemak daging babi yang perut yang ",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 9,
+      "img": "../public/Ramen/c83fd4fe731b514be6afec6f010fc518.jpg",
+      "jenis": "Ramen",
+      "nama": "Tantanmen",
+      "desc": "Ramen ini hadir dengan daging babi cincang, daun bawang cincang dan cabai. Karakteristik penting lainnya dari tantanmen terletak pada penggunaan minyak wijen serta taburan biji wijen panggang di atasnya untuk menambah sedikit sensasi pedas.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 10,
+      "img": "../public/Ramen/52bc550930b3487db2da0b4702d53e6e.jpg",
+      "jenis": "Ramen",
+      "nama": "Tokushima",
+      "desc": "Disajikan dengan tiga jenis sup. Ada sup tonkotsu berwarna teh dengan kecap hitam dan sup ayam dan madu yang bening dengan kecap ringan dan kecap kuning.penyajiannya yang menggunakan baraniku, sejenis iga babi yang direbus. Ramen ini tersedia dengan tamba",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 11,
+      "img": "../public/Ramen/33f226b52a98a278ae9ede124e8a4952.jpg",
+      "jenis": "Ramen",
+      "nama": "Curry",
+      "desc": "Ramen ini tersaji bersama kari sehingga biasanya muncul dalam kuah kental dengan tampilan berwarna kuning hingga oranye. Pada dasarnya, ramen kare ini dihidangkan di atas sup kari yang terbuat dari tulang babi dan sayuran, kemudian, dibumbui dengan kari. ",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 12,
+      "img": "../public/Ramen/be7764cb9e13a79f2d22c2b7d7454f15.jpg",
+      "jenis": "Ramen",
+      "nama": "Hiyashi Chuka",
+      "desc": "Umumnya tersaji dingin, dengan atau tanpa sup. Yang membuatnya makin spesial adalah kondimen buah jeruk seperti jeruk nipis, lemon, atau yuzu untuk menambah rasa segar. Jenis kuah ramen yang dingin dari hidangan ini biasanya terdiri dari minyak wijen, kec",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 13,
+      "img": "../public/Dry/abd455be77667f6a75743fba99606dff.png",
+      "jenis": "Dry",
+      "nama": "Sukiyaki Beef",
+      "desc": "Tidak begitu oily, ramen terasa lembut, dan menyatu dengan topping meriah, yaitu tamago, beef slice, nori, dan niboshi. Jangan lupa tambah Crispy Chicken Skin berupa kulit ayam utuh memanjang yang digoreng kering. Enak dimakan bareng dry ramen karena mena",
+      "price": 25000,
+      "stock": 99
+    },
+    {
+      "id": 14,
+      "img": "../public/Dry/4dcc1907a70edfeed9acfd48678d2076.png",
+      "jenis": "Dry",
+      "nama": "Sei Bifu",
+      "desc": "Ramen kental, teksturnya lembut, dan kompleks. Bahan utamanya terbuat dari tulang babi yang direbus. Memiliki warna putih susu dengan rasa yang sangat kaya. Jenis ramen ini sering tersaji dengan mi tipis, keras, dan topping minimalis. ",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 15,
+      "img": "../public/Dry/ddab22a9669ff791307d873390a8dd0b.png",
+      "jenis": "Dry",
+      "nama": "Spicy Naked",
+      "desc": "Ramen dengan onsen tamago, chashu cincang, nori, daun bawang, jeruk nipis, dan bawang putih. Ditambah cabai agar ada tendangan rasa pedas dari ramennya",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 16,
+      "img": "../public/Dry/f3a69256fed67924595cca12fc08108b.png",
+      "jenis": "Dry",
+      "nama": "Vegan",
+      "desc": "Rasa ramennya gurih lantaran dibumbui secret sauce Yoisho Ramen. Topping-nya nggak cuma satu, ada jagung, tahu, sawi, dan lobak. Semua elemen itu bikin tekstur ramen terasa kaya dan meriah.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 17,
+      "img": "../public/Dry/e925db1bd27b044e919e10c5cb86f009.png",
+      "jenis": "Dry",
+      "nama": "Shirunashi",
+      "desc": "Saus spesial Marutama dan topping chasiu bikin rasanya nendang, gurih, dan bikin nagih. Apalagi, ada kuah super kental sebagai pendamping. Kamu bisa celupin ramen ke kuah tersebut, atau dimakan begitu aja pun udah enak banget.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 18,
+      "img": "../public/Dry/af8e06c53999f0c7f27027297511f16a.png",
+      "jenis": "Dry",
+      "nama": "Mazesoba",
+      "desc": "Mie dalam ramen terhidrasi cukup baik, menyatu dengan tare dan menciptakan rasa gurih. Chashu yang jadi topping dipanggang sempurna, menambah tekstur dry ramen ini. Jangan ragu membelah onsen tamago untuk memberi sensasi creamy pada ramen.",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 19,
+      "img": "../public/Drink/7bd281ff1d8fc8cd3e7a2316e1816f69.jpg",
+      "jenis": "Drink",
+      "nama": "Orange Juice",
+      "desc": "Buah jeruk yang segar dijadikan minuman yang sehat",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 20,
+      "img": "../public/Drink/e926c4976ecaa7aaeb23a130102889f7.jpg",
+      "jenis": "Drink",
+      "nama": "Avocado Juice",
+      "desc": "Buah jeruk yang segar dijadikan minuman yang sehat",
+      "price": 25000,
+      "stock": 100
+    },
+    {
+      "id": 21,
+      "img": "../public/Drink/685fd3da16e3bfe0d4992fc8a744511f.jpg",
+      "jenis": "Drink",
+      "nama": "Ice Lemon Tea",
+      "desc": "Es Lemon yang dipadukan eskrim vanilla",
+      "price": 25000,
+      "stock": 99
+    },
+    {
+      "id": 22,
+      "img": "../public/Drink/ame.jpg",
+      "jenis": "Drink",
+      "nama": "Americano",
+      "desc": "Minuman kopi yang dibuat dengan mencampurkan satu seloki espresso dengan air panas. Air panas yang digunakan dalam minuman ini adalah sebanyak 6 hingga 8 ons.",
+      "price": 25000,
+      "stock": 100
+    }
+  ]
+}
